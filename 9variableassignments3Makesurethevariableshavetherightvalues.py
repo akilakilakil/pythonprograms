@@ -1,0 +1,9 @@
+onehundred=10
+twohundred=2000
+threehundred=-30000
+onehundred=onehundred*10
+twohundred=twohundred-1900
+threehundred=threehundred+30300
+print(onehundred)
+print(twohundred)
+print(threehundred)
